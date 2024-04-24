@@ -1,4 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Duracell demo site 
+
+## Making site for client and learn Nuxt
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
